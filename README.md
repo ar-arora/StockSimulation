@@ -6,6 +6,6 @@ The dependencies for the code to work are listed in the requirements.txt file an
 
 	pip install -r requirements.txt
 
-    The CSV files for individual files are in the folder named stocks
+The CSV files for individual files are in the folder named stocks
 
 The python notebook for the solution is self-explanatory with comments.
